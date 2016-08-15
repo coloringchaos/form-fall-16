@@ -10,7 +10,7 @@ title: FORM - Fall 2016
 email: arielle.hein@colorado.edu
 description: > # this means to ignore newlines until "baseurl:"
   Course website for ATLS 3100-010/011. Site buit and maintained by Arielle Hein.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/form-fall-16" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
