@@ -39,7 +39,7 @@ This page has a breakdown of the general content that we will cover in each clas
 **Wednesday, September 28th** - using the laser cutter ***small group meetings***
 
 # Week 7
-**Monday, October 3rd** - work day
+**Monday, October 3rd** - project workshopping
 
 **Wednesday, October 5th** - 
 
