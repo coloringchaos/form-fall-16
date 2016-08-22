@@ -16,6 +16,8 @@ There are 3 components to this project and all three are required for a complete
 
 3. **Presentation Sheet:** Create a poster/flyer for the model that you have created in Rhino by taking screen shots from different angles (a minimum of 4 screenshots are required). These screenshots should highlight the details of the model you have created. The sheet should also contain text highlighting your concept. Use what you have written in your artist/design statement. Use ‘buzz’ words to enhance the presentation of the sheet. Pay special attention to the layout, design and colors for the sheet. Treat this component like an advertisement that would go in a magazine or a gallery showcase pamphlet. Ensure that your name is also on the sheet. Save the sheet as a PDF.
 
+**You must work alone on this project.**
+
 
 # Grading Rubric
 50% of your grade will be on your technical approach and 50% of the grade will be based on the conceptual content of your submission. 

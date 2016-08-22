@@ -7,7 +7,7 @@ permalink: /syllabus/
 **Course:** ATLS 3100-010/011 <br>
 **Instructor:** Arielle Hein <br>
 **Email:** arielle.hein@colorado.edu<br>
-**Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I) or email Arielle for alterantive times
+**Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I)
 
 
 # Course Description
@@ -16,6 +16,8 @@ This course introduces the fundamentals of 3D modeling, 3D printing, and rapid p
 # Class Format
 You will be expected to complete readings and watch assigned videos *prior* to our time together, arriving in class prepared to discuss and utilize the techniques presented in the homework. These assigned videos will prepare you with sufficient background knowledge on the material of the lecture; this ensures that we can maximize the benefit of our scheduled class time. 
 
+You will complete four major projects over the coure of the semester, and smaller homework assignment will be due every week. Projects and assignments will require both conceptual and technical skill. 
+
 # Required Resources
 + **[3 button mouse](https://www.amazon.com/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6RW/ref=sr_1_2?ie=UTF8&qid=1470681534&sr=8-2&keywords=mouse)** - essential for modeling and navigating in 3 dimensions! Any 3-button mouse will work. Be sure to label your mouse with your name.
 + **[Rhinoceros 3D](https://www.rhino3d.com/)** - commercial grade modeling software available for both PC ($195 student license) & Mac ($95 student license). A full 90-day trial version of Rhino can be obtained [here](https://www.rhino3d.com/download), after which saving and plugins are disabled. Rhino can also be found on all ATLAS computers. **Note that PC and Mac Rhino have different interfaces.*
@@ -23,7 +25,7 @@ You will be expected to complete readings and watch assigned videos *prior* to o
 
 
 # Material Costs
-This is a fabrication class, meaning that you will be required to make things IRL (in real life!). In order to do so, you will need materials such as wood, paper or acrylic sheets for the laser cutter and plastic filament for the 3D printer. It is advised to **budget roughly $200 for the semester** to account for these material expenses. You will have full access to the BTU Lab and you are welcome to use the materials there, but you should not solely rely on these supplies to produce your assignments. It is also encouraged to pair up, and to share the costs for your projects. 
+This is a fabrication class, meaning that you will be required to make things IRL (in real life!). In order to do so, you will need materials such as wood, paper or acrylic sheets for the laser cutter and plastic filament for the 3D printer. It is advised to **budget roughly $200 for the semester** to account for these material expenses. You will have full access to the BTU Lab and you are welcome to use the materials there, but you should not rely on these supplies to produce your assignments. It is also encouraged to pair up, and to share the costs for your projects. 
 
 # Laser Cutter & Printer Use
 ATLAS currently has 1 Universal 90-Watt CO2 laser cutter and 2 LulzBot TAZ 5 3D printers. These machines are located in the [BTU Lab](http://www.btulab.com/) (ATLS 113). One of the 3D printers and the laser cutter is a shared resource for the BTU Lab and is used by other member of the lab. The second 3D printer is dedicated for this class. 
@@ -46,25 +48,23 @@ I take critiques very seriously. Even if your project is not fully completed, it
 
 
 # Grading
-Students will be assessed on conceptual ideas, technical skills, critical thinking, project presentation, participation and attendance. Student projects will be assessed on conceptual thought, creativity, originality and aesthetic qualities, demonstration of competent use of media tools, and work finished and presented on the due date.  
+Students will be assessed on conceptual ideas, technical skills, critical thinking, project presentation, participation and attendance. Projects will be evaluated on conceptual thought, creativity, technical skill, and work finished and presented on the due date.  
 
-If you turn in all your work on time (and if it is satisfactorily completed), and if you attend class and participate, you are ensured a C. A’s and B’s are reserved for students who excel beyond average and competent work.
-
-Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
+If you turn in all your work on time (and if it is satisfactorily completed), and if you attend class and participate, you are ensured a C. A’s and B’s are reserved for students who excel beyond average and competent work. Individual projects that are turned in late will result in the grade being lowered for that project. Feedback through the form of critique is also essential; absence from any of the class critiques will result in a drop of one letter grade for that assignment.
 
 Large projects turned in late will be graded 10% lower for each day that they are late. Small weekly assignments turned in late will be accepted for half credit for one week after their initial due date. After one week, late small assignments will no longer be accepted for credit.
 
-
 *Grades will be determined according to the following breakdown:*
 
-
-|---|:-------:|-----:|
-| Project 1 | | 10% |
-| Project 2 | | 15% |
-| Project 3 | | 15% |
-| Final Project | | 20% |
-| Weekly Assignments | | 15% |
-| Attendance & Participation |  | 20% |
+|---------------|--------:|
+| Project 1 	| 100 pts |
+| Project 2 	| 150 pts |
+| Project 3 	| 150 pts |
+| Final Project | 200 pts |
+| Design Observation |	60 pts |
+| Weekly Assignments (10 total, 20 pts each) | 200 pts |
+| Attendance & Participation | 140 pts |
+{:.mbtablestyle}
 
 <br>
 
