@@ -18,7 +18,7 @@ Assignments are due on the day that they are listed.
 # Week 2
 **Monday, August 29th** -  3D terminology, thinking in 3 dimensions, designing in rhino: 2d primitives, 3d primitives, start-of-semester survey
 
-+ **Watch:** [Videos]()
+<!-- + **Watch:** [Videos]() -->
 + **Due:** [Assignment 1, Button Design](/form-fall-16/assignment-1)
 
 **Wednesday, August 31st** - design discussion, rhino (curves, surfaces, solids), workshop: planning a design from sketch to 3D 
