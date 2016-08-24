@@ -18,6 +18,7 @@ Assignments are due on the day that they are listed.
 # Week 2
 **Monday, August 29th** -  3D terminology, thinking in 3 dimensions, designing in rhino: 2d primitives, 3d primitives, start-of-semester survey
 
++ **Watch:** [MAC Rhino Interface](https://vimeo.com/128160449)
 + **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch sections 2 and 6 (4 and 5 maybe also be helpful)
 + **Read:** Don Norman's [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf), Chapter 1
 
