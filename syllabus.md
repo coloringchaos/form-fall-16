@@ -57,13 +57,13 @@ Large projects turned in late will be graded 10% lower for each day that they ar
 *Grades will be determined according to the following breakdown:*
 
 |---------------|--------:|
-| Project 1 	| 100 pts |
+| [Project 1](/form-fall-16/project-1) 	| 100 pts |
 | Project 2 	| 150 pts |
 | Project 3 	| 150 pts |
 | Final Project | 200 pts |
 | Design Observation |	60 pts |
 | Weekly Assignments (10 total, 20 pts each) | 200 pts |
-| Attendance & Participation | 140 pts |
+| [Attendance & Participation](/form-fall-16/assets/Form2016AttendanceRubric.pdf) | 140 pts |
 {:.mbtablestyle}
 
 <br>
