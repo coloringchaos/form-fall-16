@@ -11,20 +11,19 @@ Assignments are due on the day that they are listed.
 # Week 1
 **Monday, August 22nd** - introductions, design activity, expectations
 
-**Wednesday, August 24th** - syllabus, edmodo, blogs, intro to rhino, command line and interface basics, rhino resources
+**[Wednesday, August 24th](/form-fall-16/intro)** - syllabus, edmodo, blogs, intro to rhino, command line and interface basics, rhino resources
 
 + **Due:** review syllabus, get a 3 button mouse, install Rhino (if using your own machine)
 
 # Week 2
 **Monday, August 29th** -  3D terminology, thinking in 3 dimensions, designing in rhino: 2d primitives, 3d primitives, start-of-semester survey
 
-<!-- + **Watch:** [Videos]() -->
-+ **Due:** [Assignment 1, Button Design](/form-fall-16/assignment-1)
++ **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch sections 2 and 6 (4 and 5 maybe also be helpful)
++ **Read:** Don Norman's [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf), Chapter 1
 
 **Wednesday, August 31st** - design discussion, rhino (curves, surfaces, solids), workshop: planning a design from sketch to 3D 
 
-+ **Read:** Don Norman's [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf), Chapter 1
-+ **Watch:** [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
++ **Due:** [Assignment 1, First Model](/form-fall-16/assignment-1)
 
 # Week 3
 *Monday, September 5th - NO CLASS - Labor Day :)*
