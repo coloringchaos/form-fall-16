@@ -23,5 +23,5 @@ Maggie Patton<br>
 [Scott Rathbone](https://serathbone.wordpress.com/)<br>
 [Ariel Riggan](https://followtheworkwithariel.wordpress.com/form-atls-3100/)<br>
 Sarah Wachter<br>
-Olivia Watkins<br>
+[Olivia Watkins](http://oliviawatkins0.wixsite.com/mysite-1)<br>
 [Lionel Wynn](http://wynn.space/index.php/what-im-up-to/)<br>
