@@ -22,7 +22,7 @@ Assignments are due on the day that they are listed.
 + **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch sections 2 and 6 (4 and 5 maybe also be helpful)
 + **Read:** Don Norman's [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf), Chapter 1
 
-**Wednesday, August 31st** <br>3d primitives, surfaces in rhino, polysurface operations, deformations <br> *follow along with [demo02.3dm]()*
+**Wednesday, August 31st** <br>3d primitives, surfaces in rhino, polysurface operations, deformations <br> *follow along with [demo02.3dm](/form-fall-16/resources/demo02.3dm)*
 <br> In-Class Activity: button design
 
 + **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch section 7
