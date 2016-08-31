@@ -9,20 +9,21 @@ This page has a breakdown of the general content that we will cover in each clas
 Assignments are due on the day that they are listed. 
 
 # Week 1
-**Monday, August 22nd** - introductions, design activity, expectations
+**Monday, August 22nd** <br> introductions, design activity, expectations
 
-**[Wednesday, August 24th](/form-fall-16/intro)** - syllabus, edmodo, blogs, rhino resources, nurbs vs. mesh
+**[Wednesday, August 24th](/form-fall-16/intro)** <br> syllabus, edmodo, blogs, rhino resources, nurbs vs. mesh
 
 + **Due:** review syllabus, get a 3 button mouse, install Rhino (if using your own machine)
 
 # Week 2
-**Monday, August 29th** - designing in rhino: interface and command line basics, curves, 2d primitives - [demo file](/form-fall-16/resources/demo01.3dm)
+**Monday, August 29th** <br> designing in rhino: interface and command line basics, curves, 2d primitives <br> *follow along with [demo01.3dm](/form-fall-16/resources/demo01.3dm)*
 
 + **Watch:** [MAC Rhino Interface](https://vimeo.com/128160449)
 + **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch sections 2 and 6 (4 and 5 maybe also be helpful)
 + **Read:** Don Norman's [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf), Chapter 1
 
-**Wednesday, August 31st** - 3d primitives, surfaces in rhino, design discussion, from sketch to 3D
+**Wednesday, August 31st** <br>3d primitives, surfaces in rhino, polysurface operations, deformations <br> *follow along with [demo02.3dm]()*
+<br> In-Class Activity: button design
 
 + **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch section 7
 
@@ -31,56 +32,56 @@ Assignments are due on the day that they are listed.
 
 + **Due:** [Assignment 1, First Model](/form-fall-16/assignment-1)
 
-**Wednesday, September 7th** - NURBS surfaces and mesh surfaces, useful tools of the NURBS environment, surfacing & solids
+**Wednesday, September 7th** <br> NURBS surfaces and mesh surfaces, useful tools of the NURBS environment, surfacing & solids
 
 + **Due:** [Assignment 2, Game Piece](/form-fall-16/assignment-2)
 
 # Week 4
-**Monday, September 12th** - design discussion, 3D file types, exporting and saving projects, documentation
+**Monday, September 12th** <br> design discussion, 3D file types, exporting and saving projects, documentation, project work time
 
-**Wednesday, September 14th** - project critique
+**Wednesday, September 14th** <br> project critique
 
 + **Due: [PROJECT 1](/form-fall-16/project-1)**
 
 # Week 5
-**Monday, September 19th** - introduce project 2, illustrator to rhino, design for laser cutting
+**Monday, September 19th** <br> introduce project 2, illustrator to rhino, design for laser cutting
 
-**Wednesday, September 21st** -  BTU lab tour, materials, 123D make
+**Wednesday, September 21st** <br>  BTU lab tour, materials, 123D make
 
 + **Due:** [Assignment 3, Typography]()
 
 # Week 6
-**Monday, September 26th** - design activity, using the laser cutter ***small group meetings***
+**Monday, September 26th** <br> design activity, using the laser cutter ***small group meetings***
 
 + **Due:** [Assignment 4, Project 2 Inspiration]()
 
-**Wednesday, September 28th** - design activity, using the laser cutter ***small group meetings***
+**Wednesday, September 28th** <br> design activity, using the laser cutter ***small group meetings***
 
 + **Due:** [Assignment 5, Low-Poly Paper Fab]()
 
 # Week 7
-**Monday, October 3rd** - project workshopping, design discussion
+**Monday, October 3rd** <br> project workshopping, design discussion
 
-**Wednesday, October 5th** - work day
+**Wednesday, October 5th** <br> work day
 
 # Week 8
-**Monday, October 10th** - project presentations
+**Monday, October 10th** <br> project presentations
 
 + **Due: [PROJECT 2]()**
 
-**Wednesday, October 12th** - introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5
+**Wednesday, October 12th** <br> introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5
 
 # Week 9
-**Monday, October 17th** - using Cura, 3d printing
+**Monday, October 17th** <br> using Cura, 3d printing
 
 + **Due:** [Assignment 6, Project 3 Inspiration]()
 
-**Wednesday, October 19th** - 123D catch, how to clean up a scan
+**Wednesday, October 19th** <br> 123D catch, how to clean up a scan
 
 + **Due:** [Assignment 7, 3D mini]()
 
 # Week 10
-**Monday, October 24th** - precedents in 3D design, sculpting data
+**Monday, October 24th** <br> precedents in 3D design, sculpting data
 
 + **Due:** [Assignment 8, Connector]()
 
@@ -94,18 +95,18 @@ Assignments are due on the day that they are listed.
 + **Due:** [Design Observation]()
 
 # Week 12
-**Monday, November 7th** - product autopsy, sustainability in design
+**Monday, November 7th** <br> product autopsy, sustainability in design
 
-**Wednesday, November 9th** - Project Critique
+**Wednesday, November 9th** <br> project 3 critique
 
 + **Due: [PROJECT 3]()**
 
 # Week 13
-**Monday, November 14th** - 3d fabrication
+**Monday, November 14th** <br> 3d fabrication
 
 + **Due:** [Assignment 9, Multiples]()
 
-**Wednesday, November 16th** - advanced tools & techniques for Rhino
+**Wednesday, November 16th** <br> advanced tools & techniques for Rhino
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
@@ -113,15 +114,15 @@ Assignments are due on the day that they are listed.
 *Wednesday, November 23rd - NO CLASS*
 
 # Week 15
-**Monday, November 28th** - project workshopping
+**Monday, November 28th** <br> project workshopping
 
 + **Due:** [Assignment 10, Final Project Inspiration]()
 
-**Wednesday, November 30th** - advanced tools & techniques for digital fabrication
+**Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 
 # Week 16
-**Monday, December 5th** - work day
+**Monday, December 5th** <br> work day
 
-**Wednesday, December 7th** - Final Project Critique
+**Wednesday, December 7th** <br> final project critique
 
 + **[FINAL PROJECT]()**

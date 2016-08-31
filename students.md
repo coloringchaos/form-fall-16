@@ -8,7 +8,7 @@ Paige Alleman<br>
 [Lupe Alvalos](https://lupitasnoticias.wordpress.com/category/form/)<br>
 Jimmy Cordova<br>
 Allie Cowel<br>
-Emily Daub<br>
+[Emily Daub](http://emilydaub.weebly.com/blog/category/form)<br>
 [Mike Ettinger](https://michaelettinger.wordpress.com/)<br>
 [Susana Gomez-Burgos](https://suenosinmarcesibles.wordpress.com/)<br>
 [David Ingraham](https://davidingrahamblog.wordpress.com/)<br>
