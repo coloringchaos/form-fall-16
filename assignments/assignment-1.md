@@ -17,4 +17,4 @@ Using Rhino, model something that fits inside a 3″x 3″x 3″ cube. Examples:
 
 Turn your work in on Edmodo - submit your .3dm Rhino file and also a link to your blog documentation.
 
-**Assignment 1 is due before class on August 31st.**
+**Assignment is due by 5pm on Monday, September 5t** 
