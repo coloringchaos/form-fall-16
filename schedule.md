@@ -32,12 +32,16 @@ Assignments are due on the day that they are listed.
 
 + **Due:** [Assignment 1, First Model](/form-fall-16/assignment-1)
 
-**Wednesday, September 7th** <br> NURBS surfaces and mesh surfaces, useful tools of the NURBS environment, surfacing & solids
+**Wednesday, September 7th** <br> modeling in rhino, surfacing & solids
 
 + **Due:** [Assignment 2, Game Piece](/form-fall-16/assignment-2)
 
 # Week 4
-**Monday, September 12th** <br> design discussion, 3D file types, exporting and saving projects, documentation, project work time
+**Monday, September 12th** <br> design discussion, 3D file types, exporting and saving projects, documentation, work time
+
++ **Watch:** Alain de Botton's keynote speech [Why Design Matters](https://www.youtube.com/watch?v=6QcTQSNTONw)
++ **Read:** [Product Design](https://www.dwell.com/article/an-introduction-to-product-design-8ca338bd)
++ **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch section 8
 
 **Wednesday, September 14th** <br> project critique
 

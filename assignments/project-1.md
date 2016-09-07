@@ -10,7 +10,7 @@ The aim of this project is to demonstrate the Rhino skills you have learned so f
 # Requirements
 All four of the following components are required for a complete submission. 
 
-1. **Model:** Create a 3D model in Rhino with at least 5 unique solid forms, but the final model should be one cohesive model (unless your concept dictates otherwise). If you chose the predefined solids in Rhino i.e. sphere, box, cylinder, cone etc., you need to apply transformations (unless your concept dictates otherwise) commands to them i.e. Sheer, Fillet, Twist etc. You need to develop this model based on the concept you pick. Save your model as a .3dm file.
+1. **Model:** Create a complex 3D model in Rhino. Your model must include at least 5 unique solid geometries, but the final model should be one cohesive model (unless your concept dictates otherwise). Your model should be built primarily with curves, and you should utilize the commands we covered in class to create compelex surfaces from those curves. If you chose to use any predefined solids in Rhino i.e. sphere, box, cylinder, cone etc., you need to apply transformations (unless your concept dictates otherwise) commands to them i.e. Sheer, Fillet, Twist etc. You need to develop this model based on the concept you pick. Save your model as a .3dm file.
 
 2. **Artist / Design Statement:** A written document (200 words) explaining your concept is also required with this submission. Start off by coming up with a name and a tagline for your object. This will help you explain your concept in one line. Use this document as a opportunity to talk about why you have chosen this particular idea along with why and how does the model you have created complements this idea. Save the document as a PDF.
 
