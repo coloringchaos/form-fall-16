@@ -5,7 +5,7 @@ permalink: /students/
 ---
 
 [Paige Alleman](https://paigelalleman.wordpress.com/category/form/)<br>
-[Lupe Alvalos](https://lupitasnoticias.wordpress.com/category/form/)<br>
+[Lupe Avalos](https://lupitasnoticias.wordpress.com/category/form/)<br>
 [Jimmy Cordova](https://jimmycordovatam.wordpress.com/category/form-fall-16/)<br>
 [Allie Cowel](http://allie-cowel.com/category/form-blog/)<br>
 [Emily Daub](http://emilydaub.weebly.com/blog/category/form)<br>
