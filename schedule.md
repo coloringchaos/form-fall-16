@@ -41,7 +41,8 @@ Assignments are due on the day that they are listed.
 
 + **Watch:** Alain de Botton's keynote speech [Why Design Matters](https://www.youtube.com/watch?v=6QcTQSNTONw)
 + **Read:** [Product Design](https://www.dwell.com/article/an-introduction-to-product-design-8ca338bd)
-+ **Watch:** [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch section 8
++ **Blog:** write thoughtful 250 word response to the video and reading.
++ **Optional:** watch [Rhino 5 Lynda Essential Training](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) - watch section 8
 
 **Wednesday, September 14th** <br> project critique
 
