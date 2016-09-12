@@ -14,6 +14,7 @@ permalink: /resources/
 [Tazzy Signup](https://calendar.google.com/calendar/selfsched?sstoken=UUEzOUdGQlZKVC16fGRlZmF1bHR8NmEyZGRlYzI2NTgzYWVmNDM3YjcyNjRjZTBmYmY2NGM) - FORM 3D Printer
 
 # Rhino
++ [Rhino For Mac User's Guide](http://docs.mcneel.com/rhino/mac/usersguide/en-us/index.htm)
 + [General Help for Rhino](http://docs.mcneel.com/rhino/5/help/en-us/index.htm)
 + [Rhino Tutorials on Vimeo](https://vimeo.com/rhino)
 

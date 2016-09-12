@@ -37,7 +37,7 @@ Assignments are due on the day that they are listed.
 + **Due:** [Assignment 2, Game Piece](/form-fall-16/assignment-2)
 
 # Week 4
-**Monday, September 12th** <br> design discussion, 3D file types, exporting and saving projects, documentation, work time
+**Monday, September 12th** <br> design discussion, rendering in rhino, exporting and saving projects, writing an artist statement, work time
 
 + **Watch:** Alain de Botton's keynote speech [Why Design Matters](https://www.youtube.com/watch?v=6QcTQSNTONw)
 + **Read:** [Product Design](https://www.dwell.com/article/an-introduction-to-product-design-8ca338bd)
