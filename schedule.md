@@ -51,44 +51,46 @@ Assignments are due on the day that they are listed.
 # Week 5
 **Monday, September 19th** <br> introduce project 2, illustrator to rhino, design for laser cutting
 
-**Wednesday, September 21st** <br>  BTU lab tour, materials, 123D make
+**Wednesday, September 21st** <br>  BTU lab tour, materials, 123D make, documentation
 
-+ **Due:** [Assignment 3, Typography]()
++ **Due:** [Assignment 3, Typography](/form-fall-16/assignment-3)
++ **Read:** [Dieter Rams 10 principles of good design](https://www.vitsoe.com/us/about/good-design)
 
 # Week 6
-**Monday, September 26th** <br> design activity, using the laser cutter ***small group meetings***
+**Monday, September 26th** - *class meets in the BTU lab* <br> group design activity, using the laser cutter, using the 3d printers, ***small group meetings*** <br> 
 
-+ **Due:** [Assignment 4, Project 2 Inspiration]()
+**Wednesday, September 28th** - *class meets in the BTU lab*<br> group design activity, using the laser cutter, using the 3d printers, ***small group meetings***
 
-**Wednesday, September 28th** <br> design activity, using the laser cutter ***small group meetings***
-
-+ **Due:** [Assignment 5, Low-Poly Paper Fab]()
++ **Due:** [Project 2 Inspiration]()
 
 # Week 7
 **Monday, October 3rd** <br> project workshopping, design discussion
 
-**Wednesday, October 5th** <br> work day
++ **Due:** [Assignment 4, Laser Sample](/form-fall-16/assignment-4)
++ **Due:** [Assignment 5, 2D Joinery](/form-fall-16/assignment-5)
+
+**Wednesday, October 5th** <br> materials discussion
+
++ **Due:** [Assignment 6, 3D mini](/form-fall-16/assignment-6)
 
 # Week 8
-**Monday, October 10th** <br> project presentations
+**Monday, October 10th** <br> work day
+
+**Wednesday, October 12th** <br> project presentations
 
 + **Due: [PROJECT 2]()**
 
-**Wednesday, October 12th** <br> introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5
-
 # Week 9
-**Monday, October 17th** <br> using Cura, 3d printing
+**Monday, October 17th** <br> introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5, using Cura
 
-+ **Due:** [Assignment 6, Project 3 Inspiration]()
+**Wednesday, October 19th** <br> precedents in 3D design, sculpting data 
 
-**Wednesday, October 19th** <br> 123D catch, how to clean up a scan
-
-+ **Due:** [Assignment 7, 3D mini]()
++ **Due:** [Project 3 Inspiration]()
 
 # Week 10
-**Monday, October 24th** <br> precedents in 3D design, sculpting data
+**Monday, October 24th** <br> 123D catch, how to clean up a scan
 
-+ **Due:** [Assignment 8, Connector]()
++ **Due:** [Assignment 7, Connector]()
 
 *Wednesday, October 26th - NO CLASS*
 
@@ -97,7 +99,8 @@ Assignments are due on the day that they are listed.
 
 *Wednesday, November 2nd - NO CLASS*
 
-+ **Due:** [Design Observation]()
+<!-- + **Due:** [Assignment 8, Connector]() -->
++ **Due:** [Assignment 8, Low-Poly Paper Fab]()
 
 # Week 12
 **Monday, November 7th** <br> product autopsy, sustainability in design
@@ -121,7 +124,8 @@ Assignments are due on the day that they are listed.
 # Week 15
 **Monday, November 28th** <br> project workshopping
 
-+ **Due:** [Assignment 10, Final Project Inspiration]()
++ **Due:** [Final Project Inspiration]()
++ **Due:** [Assignment 10]()
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 
