@@ -23,5 +23,5 @@ permalink: /students/
 [Scott Rathbone](https://serathbone.wordpress.com/)<br>
 [Ariel Riggan](https://followtheworkwithariel.wordpress.com/form-atls-3100/)<br>
 [Sarah Wachter](https://sarahwachter.wordpress.com/)<br>
-[Olivia Watkins](http://oliviawatkins0.wixsite.com/mysite-1)<br>
+[Olivia Watkins](http://oliviawatkins0.wixsite.com/formblog)<br>
 [Lionel Wynn](http://wynn.space/index.php/what-im-up-to/)<br>
