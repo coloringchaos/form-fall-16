@@ -49,17 +49,21 @@ Assignments are due on the day that they are listed.
 + **Due: [PROJECT 1](/form-fall-16/project-1)**
 
 # Week 5
-**Monday, September 19th** <br> introduce project 2, illustrator to rhino, design for laser cutting
+**Monday, September 19th** <br> illustrator to rhino, fonts, design for laser cutting
 
-**Wednesday, September 21st** <br>  BTU lab tour, materials, 123D make, documentation
+**Wednesday, September 21st** <br>  BTU lab tour, introduce project 2, materials, 123D make, documentation, sketching
 
 + **Due:** [Assignment 3, Typography](/form-fall-16/assignment-3)
-+ **Read:** [Dieter Rams 10 principles of good design](https://www.vitsoe.com/us/about/good-design)
 
 # Week 6
-**Monday, September 26th** - *class meets in the BTU lab* <br> group design activity, using the laser cutter, using the 3d printers, ***small group meetings*** <br> 
+**Monday, September 26th** - *class meets in the BTU lab* <br> design discussion, group design activity, using the laser cutter, using the 3d printers <br>***small group meetings - bring material to laser cut*** <br> 
 
-**Wednesday, September 28th** - *class meets in the BTU lab*<br> group design activity, using the laser cutter, using the 3d printers, ***small group meetings***
++ **Read:** [Dieter Rams 10 principles of good design](https://www.vitsoe.com/us/about/good-design)
++ **Read:** [The Demise of Form Follows Function](http://www.nytimes.com/2009/06/01/arts/01iht-DESIGN1.html?_r=0)
++ **Read:** [This is How Design Works](https://startupsthisishowdesignworks.com/)
++ **Blog:** Post a ~250 word reaction to the assigned readings
+
+**Wednesday, September 28th** - *class meets in the BTU lab*<br> group design activity, using the laser cutter, using the 3d printers <br>***small group meetings - bring material to laser cut***
 
 + **Due:** [Project 2 Inspiration]()
 
