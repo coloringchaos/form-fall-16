@@ -65,7 +65,7 @@ Assignments are due on the day that they are listed.
 
 **Wednesday, September 28th** - *class meets in the BTU lab*<br> group design activity, using the laser cutter, using the 3d printers <br>***small group meetings - bring material to laser cut***
 
-+ **Due:** [Project 2 Inspiration]()
++ **Due:** [Project 2 Inspiration](/form-fall-16/p2-inspiration)
 
 # Week 7
 **Monday, October 3rd** <br> project workshopping, design discussion
@@ -78,7 +78,7 @@ Assignments are due on the day that they are listed.
 + **Due:** [Assignment 6, 3D mini](/form-fall-16/assignment-6)
 
 # Week 8
-**Monday, October 10th** <br> work day
+**Monday, October 10th** <br> guest lecture from 
 
 **Wednesday, October 12th** <br> project presentations
 
