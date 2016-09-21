@@ -26,6 +26,9 @@ permalink: /resources/
 
 # 3D Printing
 + [STL Repair](https://netfabb.azurewebsites.net/index.php) - NetFab cloud service
++ [Things to keep in mind for 3D Printing](http://www.shapeways.com/tutorials/things-to-keep-in-mind)
++ [Top 10 tips for designing for 3D printing](http://makezine.com/2013/12/11/top-ten-tips-designing-models-for-3d-printing/)
+
 
 # Models
 + [Thingiverse](http://www.thingiverse.com/)

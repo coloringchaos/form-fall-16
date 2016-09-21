@@ -51,7 +51,7 @@ Assignments are due on the day that they are listed.
 # Week 5
 **Monday, September 19th** <br> illustrator to rhino, fonts, design for laser cutting
 
-**Wednesday, September 21st** <br>  BTU lab tour, introduce project 2, materials, 123D make, documentation, sketching
+**Wednesday, September 21st** <br>  BTU lab tour, introduce project 2, materials, survey, sketching
 
 + **Due:** [Assignment 3, Typography](/form-fall-16/assignment-3)
 
@@ -82,7 +82,7 @@ Assignments are due on the day that they are listed.
 
 **Wednesday, October 12th** <br> project presentations
 
-+ **Due: [PROJECT 2]()**
++ **Due: [PROJECT 2](/form-fall-16/project-2)**
 
 # Week 9
 **Monday, October 17th** <br> introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5, using Cura
