@@ -44,5 +44,3 @@ You will be evaluated on both the techincal and conceptual approach to your subm
 # **Project 1 is due Wednesday, October 12th**
 
 Be prepared to present your project in front of the class. Submit a link to your blog on Edmodo before class. 
-
-
