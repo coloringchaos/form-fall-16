@@ -78,7 +78,7 @@ Assignments are due on the day that they are listed.
 + **Due:** [Assignment 6, 3D mini](/form-fall-16/assignment-6)
 
 # Week 8
-**Monday, October 10th** <br> guest lecture from 
+**Monday, October 10th** <br> guest lecture, work time 
 
 **Wednesday, October 12th** <br> project presentations
 
