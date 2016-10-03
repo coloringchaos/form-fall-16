@@ -91,7 +91,7 @@ Assignments are due on the day that they are listed.
 
 + **Due: [PROJECT 2](/form-fall-16/project-2)**
 
-**Wednesday, October 19th** <br> introduce project 3, preparing models for 3d printing, precedents in 3D design
+**Wednesday, October 19th** <br> introduce project 3, preparing models for 3d printing, precedents in 3D design, g-code
 
 # Week 10
 **Monday, October 24th** <br> sculpting data, 123D catch, how to clean up a scan
