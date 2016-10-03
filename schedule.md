@@ -56,7 +56,7 @@ Assignments are due on the day that they are listed.
 + **Due:** [Assignment 3, Typography](/form-fall-16/assignment-3)
 
 # Week 6
-**Monday, September 26th** - *class meets in the BTU lab* <br> design discussion, group design activity, using the laser cutter, using the 3d printers <br>***small group meetings - bring material to laser cut*** <br> 
+**Monday, September 26th** - *class meets in the BTU lab* <br> group design activity, using the laser cutter, using the 3d printers <br>***small group meetings - bring material to laser cut*** <br> 
 
 + **Read:** [Dieter Rams 10 principles of good design](https://www.vitsoe.com/us/about/good-design)
 + **Read:** [The Demise of Form Follows Function](http://www.nytimes.com/2009/06/01/arts/01iht-DESIGN1.html?_r=0)
@@ -70,38 +70,43 @@ Assignments are due on the day that they are listed.
 # Week 7
 **Monday, October 3rd** <br> project workshopping, design discussion
 
-+ **Due:** [Assignment 4, Laser Sample](/form-fall-16/assignment-4)
-+ **Due:** [Assignment 5, 2D Joinery](/form-fall-16/assignment-5)
-
 **Wednesday, October 5th** <br> materials discussion
 
++ **Read:** [Enter the Anthropocene](http://geologicnow.com/1_Kolbert.php)
++ **Read:** [Those Wasteful Europeans](http://www.theatlantic.com/business/archive/2016/03/those-wasteful-europeans/475710/?utm_source=nl_weekly_040116)
++ **Read:** [Yes We Can. But Should We?](https://medium.com/re-form/just-because-you-can-doesnt-mean-you-should-252fdbcf76c8#.dj7sn99uy)
 + **Due:** [Assignment 6, 3D mini](/form-fall-16/assignment-6)
 
 # Week 8
-**Monday, October 10th** <br> guest lecture, work time 
+**Monday, October 10th** <br> guest discussion/presentation with Zack Jacobson-Weaver
 
-**Wednesday, October 12th** <br> project presentations
++ **Due:** [Assignment 4, Laser Sample](/form-fall-16/assignment-4)
++ **Due:** [Assignment 5, 2D Joinery](/form-fall-16/assignment-5)
+
+**Wednesday, October 12th** <br> work time
+
+
+# Week 9
+**Monday, October 17th** <br> project presentations
 
 + **Due: [PROJECT 2](/form-fall-16/project-2)**
 
-# Week 9
-**Monday, October 17th** <br> introduce project 3, preparing models for 3d printing, the Lulzbot Taz 5, using Cura
+**Wednesday, October 19th** <br> introduce project 3, preparing models for 3d printing, precedents in 3D design
 
-**Wednesday, October 19th** <br> precedents in 3D design, sculpting data 
+# Week 10
+**Monday, October 24th** <br> sculpting data, 123D catch, how to clean up a scan
 
 + **Due:** [Project 3 Inspiration]()
 
-# Week 10
-**Monday, October 24th** <br> 123D catch, how to clean up a scan
-
-+ **Due:** [Assignment 7, Connector]()
 
 *Wednesday, October 26th - NO CLASS*
+
++ **Due:** [Assignment 7, Connector]()
 
 # Week 11
 *Monday, October 31st - NO CLASS*
 
-*Wednesday, November 2nd - NO CLASS*
+Wednesday, November 2nd - design discussion
 
 <!-- + **Due:** [Assignment 8, Connector]() -->
 + **Due:** [Assignment 8, Low-Poly Paper Fab]()

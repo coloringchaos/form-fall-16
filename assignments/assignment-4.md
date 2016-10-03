@@ -21,4 +21,4 @@ Choose a material that is appropriate for your design concept - if you went with
 
 Turn your work in on Edmodo - submit your .3dm Rhino file and also a link to your blog documentation.
 
-**Assignment 4 is due before class on October 3rd**
+**Assignment 4 is due before class on October 10th**

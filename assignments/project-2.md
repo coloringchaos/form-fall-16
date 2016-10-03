@@ -41,6 +41,6 @@ You will be evaluated on both the techincal and conceptual approach to your subm
 | **Total ____ / 100**	 		| **100 pts**| **50 pts**|
 {:.mbtablestyle}
 
-# **Project 1 is due Wednesday, October 12th**
+# **Project 1 is due Monday, October 17th**
 
 Be prepared to present your project in front of the class. Submit a link to your blog on Edmodo before class. 

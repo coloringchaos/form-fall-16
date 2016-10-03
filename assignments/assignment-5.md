@@ -18,4 +18,4 @@ You will have class time during week 6 to design and produce this assignment. <b
 
 Turn in a link to your blog documentation on Edmodo.
 
-**Assignment 5 is due before class on October 3rd**
+**Assignment 5 is due before class on October 10th**
