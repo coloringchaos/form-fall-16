@@ -8,7 +8,7 @@ permalink: /project-3/
 
 
 # Objective
-Model and 3D print a multi-part object using the tools we have learned in Rhino. The design of your form must be conceptually driven and should have **at least 2 unique components that connect with each other**. You will work in assigned teams to create an object that is modular in nature.  You will be graded equally on the technical and conceptual approach you take for this assignment.
+Model and 3D print a multi-part object using the tools we have learned in Rhino. The design of your form must be conceptually driven and should have **at least 2 unique components that connect with each other**. You will work in [assigned teams](/form-fall-16/p3-groups) to create an object that is modular in nature.  You will be graded equally on the technical and conceptual approach you take for this assignment.
 
 # Requirements
 All four of the following components are required for a complete submission. 
@@ -59,7 +59,9 @@ Be prepared to present your project in front of the class. <br>Submit a link to 
 <hr>
 <br>
 
-# Some 3D Printing Inspiration: 
+# Some 3D Printing Inspiration:
+
+*Not all of these example projects fulfill the modular requirement of this project, they are just meant to inspire you!* 
 
 + [pinky linkers](http://www.katehartman.com/pinky-linkers/)
 + [floating skull](http://3dprintingindustry.com/news/floating-skulls-gravity-time-3d-printing-34461/)

@@ -4,7 +4,7 @@ title: Project 2
 permalink: /project-2/
 ---
 
-![Project 2 Rhino](/form-fall-16/assets/project2-photo.jpg)
+<!-- ![Project 2 Rhino](/form-fall-16/assets/project2-photo.jpg) -->
 
 
 # Objective
