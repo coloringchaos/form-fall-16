@@ -113,10 +113,10 @@ Wednesday, November 2nd - design discussion
 # Week 12
 **Monday, November 7th** <br> product autopsy, sustainability in design
 
-**Wednesday, November 9th** <br> project 3 critique
+**Wednesday, November 9th** <br> 3d fabrication
 
 # Week 13
-**Monday, November 14th** <br> 3d fabrication
+**Monday, November 14th** <br> project 3 critique
 
 + **Due: [PROJECT 3](/form-fall-16/project-3)**
 
