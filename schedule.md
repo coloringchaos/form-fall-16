@@ -115,14 +115,14 @@ Wednesday, November 2nd - design discussion
 
 **Wednesday, November 9th** <br> project 3 critique
 
-+ **Due: [PROJECT 3](/form-fall-16/project-3)**
-
 # Week 13
 **Monday, November 14th** <br> 3d fabrication
 
++ **Due: [PROJECT 3](/form-fall-16/project-3)**
+
 **Wednesday, November 16th** <br> advanced tools & techniques for Rhino
 
-+ **Due:** [Assignment 9, Multiples]()
+<!-- + **Due:** [Assignment 9, Multiples]() -->
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
@@ -133,7 +133,7 @@ Wednesday, November 2nd - design discussion
 **Monday, November 28th** <br> project workshopping
 
 + **Due:** [Final Project Inspiration]()
-+ **Due:** [Assignment 10, Low-Poly Paper Fab]()
+<!-- + **Due:** [Assignment 10, Low-Poly Paper Fab]() -->
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 
