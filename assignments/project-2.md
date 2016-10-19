@@ -19,7 +19,7 @@ All four of the following components are required for a complete submission.
 
 3. **Physical Object:** Laser cut the models created in Rhino and assemble it **without adhesive**. Bring this model to class on critique day and be prepared to present your work in front of the class. 
 
-3. **Blog Post:** Create a blog post that includes your artist/design statement and a description of your techincal process in building this project. Your post must also include at least 4 process photos - screenshots of your model and photos of the laser/assembly process. 
+4. **Blog Post:** Create a blog post that includes your artist/design statement and a description of your techincal process in building this project. Your post must also include at least 4 process photos - screenshots of your model and photos of the laser/assembly process. 
 
 **You may choose to work in groups of 2 on this project**
 
@@ -38,9 +38,9 @@ You will be evaluated on both the techincal and conceptual approach to your subm
 | Artist Statement 				|       	| 10 pts 	|
 | Presentation 					|       	| 10 pts 	|
 | Blog post						|       	| 10 pts 	|
-| **Total ____ / 100**	 		| **100 pts**| **50 pts**|
+| **Total ____ / 150**	 		| **100 pts**| **50 pts**|
 {:.mbtablestyle}
 
-# **Project 1 is due Monday, October 17th**
+# **Project 2 is due Monday, October 17th**
 
 Be prepared to present your project in front of the class. Submit a link to your blog on Edmodo before class. 

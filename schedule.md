@@ -97,34 +97,32 @@ Assignments are due on the day that they are listed.
 # Week 10
 **Monday, October 24th** <br> sculpting data, 123D catch, how to clean up a scan
 
-+ **Due:** [Project 3 Inspiration]()
-
++ **Due:** [Project 3 Inspiration](/form-fall-16/p3-inspiration)
 
 *Wednesday, October 26th - NO CLASS*
 
-+ **Due:** [Assignment 7, Connector]()
++ **Due:** [Assignment 7, Connector](/form-fall-16/assignment-7)
 
 # Week 11
 *Monday, October 31st - NO CLASS*
 
 Wednesday, November 2nd - design discussion
 
-<!-- + **Due:** [Assignment 8, Connector]() -->
-+ **Due:** [Assignment 8, Low-Poly Paper Fab]()
++ **Due:** [Assignment 8, Sculpting Data]()
 
 # Week 12
 **Monday, November 7th** <br> product autopsy, sustainability in design
 
 **Wednesday, November 9th** <br> project 3 critique
 
-+ **Due: [PROJECT 3]()**
++ **Due: [PROJECT 3](/form-fall-16/project-3)**
 
 # Week 13
 **Monday, November 14th** <br> 3d fabrication
 
-+ **Due:** [Assignment 9, Multiples]()
-
 **Wednesday, November 16th** <br> advanced tools & techniques for Rhino
+
++ **Due:** [Assignment 9, Multiples]()
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
@@ -135,7 +133,7 @@ Wednesday, November 2nd - design discussion
 **Monday, November 28th** <br> project workshopping
 
 + **Due:** [Final Project Inspiration]()
-+ **Due:** [Assignment 10]()
++ **Due:** [Assignment 10, Low-Poly Paper Fab]()
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 

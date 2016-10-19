@@ -8,7 +8,7 @@ permalink: presentation-order
 
 
 Melissa & Olivia <br>
-Sarah W.<br>
+Maggie, Susie & Ally<br>
 Emily<br>
 Yue<br>
 Mike<br>
@@ -20,12 +20,12 @@ Wyatt<br>
 Lupe<br>
 David<br>
 Sara P.<br>
-Maggie, Susie & Ally<br>
 Scott<br>
+
 Lionel<br>
 Ariel<br>
-Becky
-
+Becky <br>
+Sarah W.<br>
 
 
 
