@@ -106,12 +106,12 @@ Assignments are due on the day that they are listed.
 # Week 11
 *Monday, October 31st - NO CLASS*
 
-Wednesday, November 2nd - sculpting data
+Wednesday, November 2nd - sculpting data, 3d printing, post-processing & finishing
 
 + **Due:** [Assignment 8, Collection](/form-fall-16/assignment-8)
 
 # Week 12
-**Monday, November 7th** <br> 3d printing, post-processing & finishing
+**Monday, November 7th** <br> work day, precedents in 3d fab
 
 **Wednesday, November 9th** <br> 3d fabrication
 
@@ -122,7 +122,7 @@ Wednesday, November 2nd - sculpting data
 
 + **Due: [PROJECT 3](/form-fall-16/project-3)**
 
-**Wednesday, November 16th** <br> advanced tools & techniques for Rhino
+**Wednesday, November 16th** <br> advanced tools & techniques for Rhino, discuss final project
 
 <!-- + **Due:** [Assignment 9, Multiples]() -->
 
