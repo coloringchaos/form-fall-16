@@ -106,7 +106,7 @@ Assignments are due on the day that they are listed.
 # Week 11
 *Monday, October 31st - NO CLASS*
 
-Wednesday, November 2nd - sculpting data, 3d printing, post-processing & finishing
+**Wednesday, November 2nd** - <br> sculpting data, 3d printing, post-processing & finishing
 
 + **Due:** [Assignment 8, Collection](/form-fall-16/assignment-8)
 
