@@ -95,7 +95,7 @@ Assignments are due on the day that they are listed.
  <!-- preparing models for 3d printing, precedents in 3D design, g-code -->
 
 # Week 10
-**Monday, October 24th** <br> sculpting data, 123D catch, how to clean up a scan
+**Monday, October 24th** <br> photogrammetry, 3d printing artists, 123D catch, cleaning up a scan
 
 + **Due:** [Project 3 Inspiration](/form-fall-16/p3-inspiration)
 
@@ -106,14 +106,16 @@ Assignments are due on the day that they are listed.
 # Week 11
 *Monday, October 31st - NO CLASS*
 
-Wednesday, November 2nd - design discussion
+Wednesday, November 2nd - sculpting data
 
-+ **Due:** [Assignment 8, Sculpting Data]()
++ **Due:** [Assignment 8, Collection](/form-fall-16/assignment-8)
 
 # Week 12
-**Monday, November 7th** <br> product autopsy, sustainability in design
+**Monday, November 7th** <br> 3d printing, post-processing & finishing
 
 **Wednesday, November 9th** <br> 3d fabrication
+
++ **Due:** [Assignment 9, Sculpting Data]()
 
 # Week 13
 **Monday, November 14th** <br> project 3 critique
@@ -133,7 +135,7 @@ Wednesday, November 2nd - design discussion
 **Monday, November 28th** <br> project workshopping
 
 + **Due:** [Final Project Inspiration]()
-<!-- + **Due:** [Assignment 10, Low-Poly Paper Fab]() -->
++ **Due:** [Assignment 10, Low-Poly Paper Fab]()
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 
