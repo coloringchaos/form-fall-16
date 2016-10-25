@@ -4,9 +4,6 @@ title: Project 3
 permalink: /project-3/
 ---
 
-<!-- ![Project 3](/form-fall-16/assets/project2-photo.jpg) -->
-
-
 # Objective
 Model and 3D print a multi-part object using the tools we have learned in Rhino. The design of your form must be conceptually driven and should have **at least 2 unique components that connect with each other**. You will work in [assigned teams](/form-fall-16/p3-groups) to create an object that is modular in nature.  You will be graded equally on the technical and conceptual approach you take for this assignment.
 
