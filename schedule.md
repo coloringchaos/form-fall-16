@@ -106,25 +106,23 @@ Assignments are due on the day that they are listed.
 # Week 11
 *Monday, October 31st - NO CLASS*
 
-**Wednesday, November 2nd** <br> sculpting data, 3d printing, post-processing & finishing
+*Wednesday, November 2nd - NO CLASS*
 
 + **Due:** [Assignment 8, Collection](/form-fall-16/assignment-8)
 
 # Week 12
-**Monday, November 7th** <br> work day, precedents in 3d fab
+**Monday, November 7th** <br> sculpting data, 3d printing, post-processing & finishing
 
-**Wednesday, November 9th** <br> 3d fabrication
+**Wednesday, November 9th** <br> digital fabrication for accessibility 
 
-+ **Due:** [Assignment 9, Sculpting Data]()
++ **Due:** [Assignment 9, Sculpting Data](/form-fall-16/assignment-9)
 
 # Week 13
 **Monday, November 14th** <br> project 3 critique
 
 + **Due: [PROJECT 3](/form-fall-16/project-3)**
 
-**Wednesday, November 16th** <br> advanced tools & techniques for Rhino, discuss final project
-
-<!-- + **Due:** [Assignment 9, Multiples]() -->
+**Wednesday, November 16th** <br> paper fabrication, advanced tools & techniques for Rhino, discuss final project
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
@@ -135,7 +133,7 @@ Assignments are due on the day that they are listed.
 **Monday, November 28th** <br> project workshopping
 
 + **Due:** [Final Project Inspiration]()
-+ **Due:** [Assignment 10, Low-Poly Paper Fab]()
++ **Due:** [Assignment 10, Low-Poly Paper Fab](/form-fall-16/assignment-10)
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
 
@@ -144,6 +142,7 @@ Assignments are due on the day that they are listed.
 
 **Wednesday, December 7th** <br> final project critique
 
++ **[FINAL PROJECT](/form-fall-16/final-project)**
 
+Sunday, December 9th
 
-+ **[FINAL PROJECT]()**
