@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Design Observation
-permalink: Design Observation
+title: Design Reflection
+permalink: Design Reflection
 ---
 
-# Design Observation
+# Design Reflection

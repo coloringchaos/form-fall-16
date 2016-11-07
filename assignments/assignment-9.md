@@ -22,3 +22,11 @@ Design a 3d form based on data. You can get creative about what *data* means - a
 Turn in a link to your blog documentation on Edmodo, also submit your Rhino .3dm file.
 
 **Assignment 9 is due before class on Wednesday, November 9th**
+
+
+A few references for inspiration:
+
++ [Financial Landscapes](http://portfolio.genevievehoffman.com/Financial-Landscapes)
++ [Baseball Bats](http://mepler.com/Big-Bats)
++ [Grand Old Party](http://mepler.com/Grand-Old-Party)
++ [Still Motion Hand](http://portfolio.genevievehoffman.com/Still-Motion-Hand)
