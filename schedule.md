@@ -113,7 +113,7 @@ Assignments are due on the day that they are listed.
 # Week 12
 **Monday, November 7th** <br> sculpting data, 3d printing, post-processing & finishing
 
-**Wednesday, November 9th** <br> digital fabrication for accessibility 
+**Wednesday, November 9th** <br> Print the Legend 
 
 + **Due:** [Assignment 9, Sculpting Data](/form-fall-16/assignment-9)
 
