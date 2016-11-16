@@ -122,7 +122,7 @@ Assignments are due on the day that they are listed.
 
 + **Due: [PROJECT 3](/form-fall-16/project-3)**
 
-**Wednesday, November 16th** <br> paper fabrication, discuss final projects
+**Wednesday, November 16th** <br> [paper fabrication](https://docs.google.com/presentation/d/1YKmApEsyAegprTxKTJTnszqCW2aY_SZa4H40RCMfxA4/edit?usp=sharing), discuss final projects
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
