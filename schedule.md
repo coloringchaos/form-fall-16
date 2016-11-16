@@ -149,7 +149,7 @@ Assignments are due on the day that they are listed.
 **Thursday, December 15th @ 7:30PM**  - *NO IN-PERSON MEETING*
 
 + **Due:** [Design Reflection](/form-fall-16/manifesto)
-+ **Due:** [Final Project Docuemntation](/form-fall-16/final-project)
++ **Due:** [Final Project Documentation](/form-fall-16/final-project)
 
 *Both things are due on Edmodo by 7:30pm*
 
