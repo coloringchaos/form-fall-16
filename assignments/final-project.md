@@ -7,7 +7,7 @@ permalink: /final-project/
 # Objective
 Utilize the skills you have learned in this class to produce a physical object using digital fabrication tools and techniques. You may make anything you want for this project, but the scope of the project should be substantial. 
 
-You may use any digital fabrication technique we have discussed in class (laser cutting, 3d printing, vinyl cutting...), and I highly encourage you to consider utilizing a variety of materials and/or combination of fabraication techniques to create a unique, creative form.
+You may use any digital fabrication technique we have discussed in class (laser cutting, 3d printing, vinyl cutting...), and I highly encourage you to consider utilizing a variety of materials and/or combination of fabrication techniques to create a unique, creative form.
 
 You may iterate on a previous project or assignment, or you can start from scratch with a fresh idea. Be creative! You may choose to work in groups on this assignment. 
 
@@ -43,9 +43,5 @@ Be prepared to present your project in front of the class. You should accompany 
 
 # **You will present your final project in class on Wedensday, December 7th**
 
-Your blog post for this project is due by the end of the day on Sunday, December 11th
+Your final blog documentation for this project is due before 7:30pm on Thursday, December 15th
 
-
-<br>
-<hr>
-<br>

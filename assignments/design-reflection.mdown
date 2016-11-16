@@ -1,7 +1,0 @@
----
-layout: default
-title: Design Reflection
-permalink: Design Reflection
----
-
-# Design Reflection

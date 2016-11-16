@@ -122,7 +122,7 @@ Assignments are due on the day that they are listed.
 
 + **Due: [PROJECT 3](/form-fall-16/project-3)**
 
-**Wednesday, November 16th** <br> paper fabrication, advanced tools & techniques for Rhino, discuss final project
+**Wednesday, November 16th** <br> paper fabrication, discuss final projects
 
 # Week 14 - FALL BREAK
 *Monday, November 21st - NO CLASS*
@@ -132,10 +132,11 @@ Assignments are due on the day that they are listed.
 # Week 15
 **Monday, November 28th** <br> project workshopping
 
-+ **Due:** [Final Project Inspiration]()
-+ **Due:** [Assignment 10, Low-Poly Paper Fab](/form-fall-16/assignment-10)
+<!-- + **Due:** [Final Project Inspiration]() -->
 
 **Wednesday, November 30th** <br> advanced tools & techniques for digital fabrication
+
++ **Due:** [Assignment 10, Final Project Prototype](/form-fall-16/assignment-10)
 
 # Week 16
 **Monday, December 5th** <br> work day
@@ -144,5 +145,11 @@ Assignments are due on the day that they are listed.
 
 + **[FINAL PROJECT](/form-fall-16/final-project)**
 
-Sunday, December 9th
+# Finals Week
+**Thursday, December 15th @ 7:30PM**  - *NO IN-PERSON MEETING*
+
++ **Due:** [Design Reflection](/form-fall-16/manifesto)
++ **Due:** [Final Project Docuemntation](/form-fall-16/final-project)
+
+*Both things are due on Edmodo by 7:30pm*
 
